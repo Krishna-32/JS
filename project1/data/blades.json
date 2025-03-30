@@ -1,0 +1,50 @@
+[
+  {
+      "id": 1,
+      "name": "Dragoon Storm",
+      "type": "Attack",
+      "owner": "Tyson Granger",
+      "special_move": "Dragon Emperor Supreme Flight",
+      "power_level": 98
+  },
+  {
+      "id": 2,
+      "name": "Dranzer Flame",
+      "type": "Attack",
+      "owner": "Kai Hiwatari",
+      "special_move": "Phoenix Wing Smash",
+      "power_level": 97
+  },
+  {
+      "id": 3,
+      "name": "Draciel Metal",
+      "type": "Defense",
+      "owner": "Max Tate",
+      "special_move": "Turtle Shell Shield",
+      "power_level": 95
+  },
+  {
+      "id": 4,
+      "name": "Driger Fang",
+      "type": "Balance",
+      "owner": "Ray Kon",
+      "special_move": "White Tiger Upper Claw",
+      "power_level": 96
+  },
+  {
+      "id": 5,
+      "name": "Wolborg",
+      "type": "Balance",
+      "owner": "Bryan",
+      "special_move": "Wolf Claw Final Drive",
+      "power_level": 94
+  },
+  {
+      "id": 6,
+      "name": "Black Dranzer",
+      "type": "Attack",
+      "owner": "Kai Hiwatari",
+      "special_move": "Dark Phoenix Rebirth",
+      "power_level": 99
+  }
+]

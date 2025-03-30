@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beyblade API | Tyson vs Kai</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header class="header">
+        <img src="/images/logo.png" alt="Beyblade Logo" class="logo">
+        <nav class="nav">
+            <ul class="nav-links">
+                <li><a href="/" class="nav-link">Home</a></li>
+                <li><a href="/characters.html" class="nav-link">Bladers</a></li>
+                <li><a href="/battles.html" class="nav-link">Battles</a></li>
+                <li><a href="/api.html" class="nav-link active">Beyblade Data</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main class="container">
+        <h1>Beyblade Data Arena</h1>
+        
+        <section class="controls">
+            <button id="loadBeyblades" class="btn btn-primary">Launch Beyblades!</button>
+            <button id="resetArena" class="btn btn-secondary">Reset Arena</button>
+        </section>
+        
+        <div id="beybladeContainer" class="beyblade-grid"></div>
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 Beyblade Battles Arena</p>
+    </footer>
+    
+    <script src="/js/script.js"></script>
+</body>
+</html>
